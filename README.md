@@ -1,2 +1,3 @@
 # uview-ui-types
-uview-ui  ts 支持，现支持 v1.4.1
+
+uview-ui ts type 支持，支持 v1.4.1

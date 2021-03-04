@@ -1,0 +1,1 @@
+export declare type Type2icon=(type?:'primary'|'info'|'error'|'warning'|'success'|string,fill?:boolean)=>string
